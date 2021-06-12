@@ -1,2 +1,2 @@
-USERNAME = 'ksuresh_143'
-PASSWORD = '7067883449'
+USERNAME = 'fill your instagram username'
+PASSWORD = 'fill your instagram password'
