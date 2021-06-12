@@ -1,8 +1,12 @@
-#UNDER RAPID DEVELOPMENT
+# UNDER RAPID DEVELOPMENT
 
-INSTAGRAM BOT
+#INSTAGRAM BOT
 
-#REQUIREMENTS
+Features:
+1. Login to your instagram account
+2. 
+
+# REQUIREMENTS
 1. Python3
 2. Selenium (pip install selenium)
 3. Firefox
