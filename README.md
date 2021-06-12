@@ -8,4 +8,7 @@ INSTAGRAM BOT
 3. Firefox Webdriver (Download from the link, extract and add the full path of geckodriver.exe to driver_path.py)                                                                                            
    Download : https://github.com/mozilla/geckodriver/releases/tag/v0.29.1
 
-Add your instagram credentials in credentials.py
+4. Add your instagram credentials in credentials.py
+
+# Run the Script
+python3 insta.py
