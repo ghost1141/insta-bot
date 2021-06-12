@@ -1,6 +1,6 @@
 # UNDER RAPID DEVELOPMENT
 
-#INSTAGRAM BOT
+INSTAGRAM BOT
 
 Features:
 1. Login to your instagram account
