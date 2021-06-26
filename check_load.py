@@ -37,6 +37,6 @@ def check_load():
             file = tarfile.open(os.getcwd() + '/geckodriver/geckodriver-v0.29.1-linux32.tar.gz')
             file.extractall(os.getcwd() +  '/geckodriver/')
             file.close()
-            os.remove(os.getcwd() + '/geckodriver/geckodriver-v0.29.1-linux64.tar.gz')
+            os.remove(os.getcwd() + '/geckodriver/geckodriver-v0.29.1-linux32.tar.gz')
     else:
         print("Error")
